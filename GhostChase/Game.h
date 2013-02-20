@@ -20,14 +20,6 @@
 #define GAME_WIN 6
 #define GAME_RESTART 7
 
-
-#define WIDTH 16
-#define HEIGHT 2
-#define RED_BG 12
-#define GREEN_BG 14
-#define BLUE_BG 15
-
-
 #define TILT_MID 1
 #define TILT_L 0
 #define TILT_R 2
